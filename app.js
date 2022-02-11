@@ -22,3 +22,14 @@ My residence is located in ${city}. And I enjoy ${passTime} and coding!`;
 console.log(simpleStory);
 
 console.log("\n=================\n");
+
+var x = "12";
+var y = 17;
+
+function mult(x, y)
+{
+  return x * y;
+}
+console.log(mult(17,98));
+
+console.log("\n=================\n");
